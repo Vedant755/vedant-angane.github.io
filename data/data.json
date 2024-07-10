@@ -1,0 +1,129 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Wildlife Conservation",
+        "content": "Widlife Conservation is a group project where we developed a system for Wildlife Conservation analytics by Image and Video Processing.",
+        "imgurl": "/projectSS/widelife.png",
+        "githubLink": "https://github.com/gauravsuryvanshi06/Wildlife-Conservation/tree/main",
+        "deployedLink": "https://wildlife-conservation.streamlit.app",
+        "tech": [
+          {
+            "tech": "/skillsLogos/streamlit.png"
+          },
+          {
+            "tech": "/skillsLogos/ML.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "GithubLib",
+        "content": "GithubLib uses github Apis to fetch different repositories and provides Live searching feature and Multi-language support.",
+        "imgurl": "/projectSS/githubLib.jpeg",
+        "githubLink": "https://github.com/Vedant755/GithubLib",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/postman.png"
+          },
+          {
+            "tech":"/skillsLogos/jetpack.png"
+          },
+          {
+            "tech": "/skillsLogos/java.png"
+          },
+          {
+            "tech": "/skillsLogos/kotlinNoBg.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "VK Siezer",
+        "content": "VK Siezer is a client application where the user can search for the specific RC No. Vehicle and can update KYCs and various funtionalities.",
+        "imgurl": "/projectSS/vk-sizer.png",
+        "deployedLink": "https://play.google.com/store/apps/details?id=com.ftg.carrepo&hl=en",
+        "tech": [
+          {
+            "tech": "/skillsLogos/postman.png"
+          },
+          
+          {
+            "tech": "/skillsLogos/java.png"
+          },
+          {
+            "tech": "/skillsLogos/kotlinNoBg.png"
+          },
+          {
+            "tech": "/skillsLogos/xml.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "CryptoIn",
+        "content": "CryptoIn provides information about different Crypto Currency being circulated in the market.",
+        "imgurl": "/projectSS/crypto-currency.jpeg",
+        "githubLink": "https://github.com/Vedant755/NotesApplicaion.git",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/java.png"
+          },
+          {
+            "tech":"/skillsLogos/jetpack.png"
+          },
+          {
+            "tech": "/skillsLogos/kotlinNoBg.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Notes Application",
+        "content": "Note taking Android Application using RoomDB and implemented using MVVM Architecture",
+        "imgurl": "/projectSS/notes.jpeg",
+        "githubLink": "https://github.com/Vedant755/NotesApplicaion.git",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/java.png"
+          },
+          {
+            "tech": "/skillsLogos/kotlinNoBg.png"
+          },
+          {
+            "tech": "/skillsLogos/xml.jpg"
+          },
+          {
+            "tech":"/skillsLogos/jetpack.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "RA One",
+        "content": "RA One is a client applicaiton where it serves the purpose of RA Masale employees and job applicants.",
+        "imgurl": "/projectSS/ra-one.png",
+        "githubLink": "",
+        "deployedLink": "https://play.google.com/store/apps/details?id=com.ftg.famasale",
+        "tech": [
+          {
+            "tech": "/skillsLogos/postman.png"
+          },
+          {
+            "tech": "/skillsLogos/java.png"
+          },
+          {
+            "tech": "/skillsLogos/kotlinNoBg.png"
+          },
+          {
+            "tech": "/skillsLogos/xml.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

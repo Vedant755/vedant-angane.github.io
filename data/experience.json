@@ -1,0 +1,49 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/5techg_logo.jpeg",
+      "title": "Android Developer Intern",
+      "company": "at, 5techG.com",
+      "point1": "Contributed to mutliple plus Android projects(Native, Kotlin) for different firms and entities, enhancing their mobile applications and user experiences.",
+      "point2": "Implemented dependency injection using Dagger Hilt and managed API calls with Retrofit, adhering to both MVC and MVVM architectures.",
+      "startDate": "January, 2024",
+      "endDate": "July, 2024"
+    },
+    {
+      "clogo": "/companyLogo/bullNiveza.jpeg",
+      "title": "Android Developer Intern",
+      "company": "at, Bull Niveza",
+      "point1": "Collaborated with a team to develop a cryptocurrency and money-earning application, focusing on security, user experience, and innovative financial features.",
+      "point2": "Took part in implementing login and signup functionalities using Express.js while collaborating with an Android development team.",
+      "startDate": "April, 2023",
+      "endDate": "July, 2023"
+    },
+    {
+      "clogo": "/companyLogo/github-white.png",
+      "title": "Open-source contributor",
+      "company": "GitHub",
+      "point1": "Participated and Completed the Hacktoberfest and started with open source contributions",
+      "startDate": "Oct, 2021",
+      "endDate": "Present"
+    },
+    {
+      "clogo": "/companyLogo/wemakedevs.jpeg",
+      "title": "University Leader",
+      "company": "WeMakeDevs community",
+      "point1": "Working towards making education accessible to all, for free.",
+      "point2": "Established the community in my university, responsible for creating awareness, conducting workshops, and growing the programming culture on campus.",
+      "startDate": "Jul, 2021",
+      "endDate": "Sept, 2021"
+    },
+    
+    {
+      "clogo": "/companyLogo/hashnode.png",
+      "title": "Technical content writer",
+      "company": "Vedant's Blog (nerdcoder.hashnode.dev)",
+      "point1": "Writing technical blogs and Posts on various topics like Android Development, Kubernetes Security, DevOps, etc.",
+      "point2": "Regularly publish Android development insights and tutorials on LinkedIn to share knowledge and contribute to the developer community.",
+      "startDate": "Jan, 2023",
+      "endDate": "Present"
+    }
+  ]
+}
